@@ -1,0 +1,16 @@
+pretrained/
+projects/mmdet3d_plugin/__pycache__/
+projects/mmdet3d_plugin/core/bbox/__pycache__/
+projects/mmdet3d_plugin/core/bbox/assigners/__pycache__/
+projects/mmdet3d_plugin/core/bbox/coders/__pycache__/
+projects/mmdet3d_plugin/core/bbox/match_costs/__pycache__/
+projects/mmdet3d_plugin/datasets/__pycache__/
+projects/mmdet3d_plugin/datasets/pipelines/__pycache__/
+projects/mmdet3d_plugin/models/backbones/__pycache__/
+projects/mmdet3d_plugin/models/dense_heads/__pycache__/
+projects/mmdet3d_plugin/models/detectors/__pycache__/
+projects/mmdet3d_plugin/models/utils/__pycache__/
+work_dirs/
+ckpts/
+deploy_docker/set_project_env.sh
+__pycache__
